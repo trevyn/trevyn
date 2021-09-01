@@ -1,6 +1,6 @@
 General inspiration: https://en.wikipedia.org/wiki/Social_peer-to-peer_processes
 
-Here's some little app experiments that use Turbocharger and Turbosql:
+Here's some little app experiments:
 
 - https://github.com/trevyn/notesearch
 
