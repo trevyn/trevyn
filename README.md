@@ -4,7 +4,7 @@ Here's some little app experiments:
 
 - https://github.com/trevyn/notesearch
 
-Past movements in this direction include:
+Past movements:
 
 - https://github.com/trevyn/equipotent
 - https://github.com/trevyn/turbo
