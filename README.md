@@ -2,13 +2,13 @@ General inspiration: https://en.wikipedia.org/wiki/Social_peer-to-peer_processes
 
 Here's some little app experiments:
 
-- https://github.com/trevyn/notesearch
+- [trevyn/notesearch](https://github.com/trevyn/notesearch)
 
 Past movements:
 
-- https://github.com/trevyn/equipotent
-- https://github.com/trevyn/turbo
-- https://github.com/trevyn/turbo-historical
+- [trevyn/equipotent](https://github.com/trevyn/equipotent)
+- [trevyn/turbo](https://github.com/trevyn/turbo)
+- [turbo-historical](https://github.com/trevyn/turbo-historical)
 
 ## [__Turbocharger__](https://github.com/trevyn/turbocharger)
 
