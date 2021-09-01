@@ -8,7 +8,7 @@ Past movements:
 
 - [trevyn/equipotent](https://github.com/trevyn/equipotent)
 - [trevyn/turbo](https://github.com/trevyn/turbo)
-- [turbo-historical](https://github.com/trevyn/turbo-historical)
+- [trevyn/turbo-historical](https://github.com/trevyn/turbo-historical)
 
 ## [__Turbocharger__](https://github.com/trevyn/turbocharger)
 
